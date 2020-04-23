@@ -25,7 +25,6 @@ body
     color: darkgray;
     font-family: helvetica, Arial;
     font-size: 15px;
-    width:100%;
 }
 
 
@@ -65,14 +64,14 @@ body
 #img2
 {
     position: absolute;
-    left: 1450px;
+    left: 1250px;
     top: 195px;
 }
 
 #img3
 {
     position: absolute;
-    left: 1050px;
+    left: 850px;
     top: 195px;
 }
 
