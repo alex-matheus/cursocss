@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="//d13e6x2832emvc.cloudfront.net/revista_assets/logos/avatar_quero_bolsa_revista-7b74fe9f5d8562cd797abb568be9138a28ec12e1f0e2d14e3de13349d341a290.png" />
+
+<script>
+  window.amplitudeToken = "bac263efe273a0f4ae000fdceb7ae60f";
+
+  var REV = {};
+  REV.env       = 'production';
+  REV.isDevEnv  = (REV.env == 'development');
+  REV.isProdEnv = (REV.env == 'production');
+  REV.isTestEnv = (REV.env == 'test');
+  REV.isMobile  = ('mobile' == 'mobile');
+</script>
+<script type="text/javascript">
+  dataLayer = typeof dataLayer === "undefined" ? [] : dataLayer;
+  dataLayer.push({
+    visitable_path: "/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia",
+    visitable_type: "post",
+    utm_medium: '',
+    utm_source: '',
+    utm_campaign: '',
+    utm_term: '',
+    utm_content: '',
+    gclid: '',
+    partner_id: '',
+    partner_custom_data: '',
+    zanpid: '',
+    referrer: 'https://www.google.com.br/',
+    ip: '52.67.142.222'
+  });
+</script>
+<link rel="stylesheet" media="screen" href="//d13e6x2832emvc.cloudfront.net/revista_assets/app/widgets/courses-dfb43043c858f0ba1597f673177745692e8d86ecb4440296b204fcbd722da645.css" />
+<title>Quais São As Áreas De Atuação Da Fonoaudiologia? | Revista Quero</title>
+<meta property="fb:app_id" content="179466578778411" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://querobolsa.com.br/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia" />
+<meta property="og:title" content="Quais São As Áreas De Atuação Da Fonoaudiologia? | Revista Quero" />
+<meta property="og:image" content="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/17080/fd18e8ad3c05a8bd507ad1437e6358206802489d.png?1553518051" />
+<meta property="og:image:width" content="680" />
+<meta property="og:image:height" content="420" />
+<meta property="og:description" content="Conheça um pouquinho sobre cada uma das 12 áreas de atuação da Fonoaudiologia." />
+<link rel="canonical" href="https://querobolsa.com.br/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia" />
+<meta name="description" charset="utf-8" content='Conheça um pouquinho sobre cada uma das 12 áreas de atuação da Fonoaudiologia.' />
+<link rel="stylesheet" media="screen" href="//d13e6x2832emvc.cloudfront.net/revista_assets/post-b1b62d8bcbe800e164216071532291b674f5ddb6ad3d50eb08a71363ac9f8786.css" />
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type":"WebPage",
+      "@id": "https://querobolsa.com.br/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia"
+    },
+    "headline": "Quais são as áreas de atuação da Fonoaudiologia?",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/17080/fd18e8ad3c05a8bd507ad1437e6358206802489d.png?1553518051",
+      "width": 696,
+      "height": 420
+    },
+    "datePublished": "2019-03-25 09:48:00 -0300",
+    "dateModified": "2019-12-29 09:17:00 -0300",
+    "author": {
+      "@type": "Person",
+      "name": "Maria Fernanda Alves"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Revista Quero",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "//d13e6x2832emvc.cloudfront.net/revista_assets/logos/querobolsa-69f869ef16ba9728f867d58df96744e249d283c4cb5c044f360a764f58ccb43e.png",
+        "width": 126,
+        "height": 44
+      }
+    },
+    "description": "Conheça um pouquinho sobre cada uma das 12 áreas de atuação da Fonoaudiologia."
+  }
+  </script>
+<script>
+    // Variables for gtm
+    // must be initialized before gtm snippet
+    dataLayer.push({
+      author: 'Maria Fernanda Alves',
+      postDate: '2019-03-25 09:48:00 -0300',
+      journeyStage: "provocacoes",
+      relatedUniversities: "[]",
+      relatedCourses: "[218]",
+      visitable_id: '3596',
+      visitable_type: 'post'
+    });
+
+    // Variables for amplitude
+    var category_name = "Profissões";
+    var post_title = "Quais são as áreas de atuação da Fonoaudiologia?";
+    var journey_stage = "provocacoes"
+  </script>
+<style>.async-hide { opacity: 0 !important} </style>
+<script>dataLayer=(typeof dataLayer === "undefined")?[]:dataLayer;</script>
+<script>
+  // Page-hiding
+  (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000,
+  {'GTM-KJNSKCL':true});
+  // Optimize
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-31301061-1', 'auto');
+  ga('require', 'GTM-KJNSKCL');
+// GTM
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSSD4CG');
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'laq5nwd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId:  "6c9f1e34-5ed3-406e-89d6-b264958988bb",
+    });
+  });
+</script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iD+2j7m0zOKAhS/3sDKrfdLWlGHKwbtSNveVAZcWFyr0bv8DMe7nsrVUmqCpDwQ/C8J9Hi6OWaioFXqFOFSLoQ==" />
+<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+<body>
+<div id="top-bar">
+<div class="container">
+<div class="row">
+<div class="col-xs-3 col-sm-4 col-md-5 left-side no-left-padding">
+<div class="help">
+<div class="pointer">
+<div class="icon">
+<img alt="Sobre" width="22px" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/i-info-6c064480fed98795a987b44546d6f6f6512c914ad1ced61ad5cfc1b1ab868c39.svg" />
+</div>
+<div class="title">Sobre</div>
+</div>
+<nav class="menu hide">
+<div class="arrow"></div>
+<div class="how-it-works" id="how-it-works-topbar">
+<div class="subtitle">O que é o Quero Bolsa?</div>
+<div class="about visible-xs">
+O Quero Bolsa é um site que concede bolsas de estudo e descontos em cursos de universidades e faculdades de todo Brasil. Todos nossos usuários cadastrados são carinhosamente chamados de Querobolsistas.
+</div>
+<div class="about hidden-xs">
+O Quero Bolsa é um site de busca de faculdades que ajuda estudantes a comparar cursos e conseguir bolsas de estudo até o fim do curso.
+</div>
+<div class="subtitle">Como Funciona?</div>
+<div class="steps">
+<div class="step step1">
+<div class="icon">
+<img alt="Passo Um" width="60" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/icone-passo-1-934aeaad20b0046f8a2c47f141637e03afee6338e63048cbba98ff738d747db1.png">
+</div>
+<div class="text">
+<span class="bold-title">Encontre sua bolsa de estudos</span>
+<div class="description hidden-sm hidden-xs">
+Faça uma busca para encontrar sua faculdade ou curso, pelo preço que você pode pagar.
+</div>
+</div>
+</div>
+<div class="step step2">
+<div class="icon">
+<img alt="Passo Dois" width="60" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/icone-passo-2-0ca70bda147680aff59f9852384f7bfe862fbd49f7000ac1e36b20d598eeb3fa.png">
+</div>
+<div class="text">
+<span class="bold-title">Faça sua pré-matrícula online e garanta sua vaga</span>
+<div class="description hidden-sm hidden-xs">
+Encontrou a melhor opção? Inscreva-se e garanta sua bolsa na hora através do pagamento da pré-matricula.
+</div>
+</div>
+</div>
+<div class="step step3">
+<div class="icon">
+<img alt="Passo Três" width="60" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/icone-passo-3-4be0334e4a83d3fdf3f39564b15b1b949495ed1216d8f4b44f63c4a000946b43.png">
+</div>
+<div class="text">
+<span class="bold-title">Economize na mensalidade</span>
+<div class="description hidden-sm hidden-xs">
+Faça o processo seletivo da faculdade, apresente o Comprovante de pré-matrícula e matricule-se com a bolsa até o fim do curso.
+</div>
+</div>
+</div>
+<div class="footer hidden-sm hidden-xs">
+<a class="btn btn-block btn-lg" href="https://querobolsa.com.br">Ir para o Quero Bolsa</a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="how-it-works-menu">
+<div class="pointer">
+<div class="icon">
+<img alt="Como funciona" width="22px" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/i-info-6c064480fed98795a987b44546d6f6f6512c914ad1ced61ad5cfc1b1ab868c39.svg" />
+</div>
+<div class="title">
+Como funciona o Quero Bolsa?
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-sm-4 col-md-2 center">
+<div class="logo">
+<a title="Quero Bolsa" class="logo" href="https://querobolsa.com.br"><img class="img" alt="Quero Bolsa" src="//d13e6x2832emvc.cloudfront.net/revista_assets/logos/quero_bolsa-6dd5f9825c0d52cf408ea6d0357ea7d1f8d5c2112c0d00558583b6c1875a311c.svg" /></a>
+</div>
+</div>
+<div class="hide"> 
+<div class="col-xs-3 col-sm-4 col-md-5 right-side no-right-padding">
+<div class="call-0800">
+<div class="pointer">
+<div class="icon">
+
+<img alt="Ligue grátis" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/icon-phone-2f6aef72669112caafba62ea82507672a052ecfff89c6852ae8a9dbb0dfbd8ec.png">
+</div>
+<div class="title">
+0800 <span class="hidden-xs">941 3000</span>
+</div>
+</div>
+<div id="call-0800-popover" class="hide">
+<span class="visible-xs-inline">0800 941 3000<br></span>
+Seg - Sex 8h-22h<br />
+Sábado 9h-13h <br />
+Aceitamos ligação de celular
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<nav class="navbar navbar-submenu js-navbar-submenu">
+<div class="navbar-header">
+<div class="hidden-lg">
+<a href="#" class="icon">
+<img class="navbar__search__icon--navbar js-search-icon" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/i-search-white-014cd5c0833472568d0930fa69b5cf38d2e27bf25121917a99f76b449a645e60.svg" alt="I search white 014cd5c0833472568d0930fa69b5cf38d2e27bf25121917a99f76b449a645e60" />
+</a>
+</div>
+<a class="navbar-brand" href="/revista"><img src="//d13e6x2832emvc.cloudfront.net/revista_assets/logos/revista-white-96221aae1f2a8f9fe76147d82ea021f9c26bce8f37ae48695030232648e49215.svg" alt="Revista white 96221aae1f2a8f9fe76147d82ea021f9c26bce8f37ae48695030232648e49215" /></a>
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+<span>Menu</span>
+<i class="fa"></i>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="navbar">
+<ul class="nav navbar-nav">
+<li class="nav-item">
+<a class="nav-link" href="/revista/assunto/universidades">Universidades</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/revista/assunto/vestibular-e-enem">Vestibular e Enem</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/revista/assunto/dicas-e-curiosidades">Dicas e Curiosidades</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/revista/assunto/especiais">Especiais</a>
+</li>
+<li class="nav-item">
+<a class="nav-link active" href="/revista/assunto/profissoes">Profissões</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle dropdown dropdown-toggle--border" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
++ Níveis de Ensino
+<i class="fa"></i>
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li class="dropdown-item">
+<a class="" href="/revista/assunto/pos-graduacao">Pós-graduação</a>
+</li>
+<li class="dropdown-item">
+<a class="" href="/revista/assunto/ensino-basico">Ensino Básico</a>
+</li>
+<li class="dropdown-item">
+<a class="" href="/revista/assunto/idiomas">Idiomas</a>
+</li>
+<li class="dropdown-item">
+<a class="" href="/revista/assunto/cursos-tecnicos">Cursos Técnicos</a>
+</li>
+</ul>
+</li>
+<li>
+<div class="visible-lg">
+<form action="/revista/search_posts" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class="navbar__search__elements">
+<input type="text" name="term" id="term" class="navbar__search" />
+<input alt="I search" type="image" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/i-search-930b195bbc749c6c0470ddf2c40988ccdeb97d7a9ea0963883010eed942eeeb2.svg" class="icon navbar__search__icon" />
+</div>
+</form> </div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="hidden-lg">
+<form action="/revista/search_posts" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class="js-search navbar__search__mobile">
+<input type="text" name="term" id="term-mobile" class="navbar__search js-navbar-search" placeholder="Pesquise aqui..." />
+<input alt="I search" type="image" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/i-search-930b195bbc749c6c0470ddf2c40988ccdeb97d7a9ea0963883010eed942eeeb2.svg" class="icon navbar__search__icon" />
+<a class="icon navbar__search__icon--link" href="#"><img class="navbar__search__icon--times js-search-times" src="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/i-close-3c8f0e051f865f5e4f3aa9a643a14422c45e1aa14497efe0dd6dcfe954ad07dc.svg" alt="I close 3c8f0e051f865f5e4f3aa9a643a14422c45e1aa14497efe0dd6dcfe954ad07dc" /></a>
+</div>
+</form></div>
+<div class="materials-banner js-materials-banner-top materials-banner--top" data-category="Profissões">
+<div class="materials-banner__holder js-materials-banner-holder materials-banner__holder--top">
+<a href="https://querobolsa.com.br/" target="_blank">
+<img class="materials-banner__image" alt="banner image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/marketing_images/211/b10421b0fcfd0a878d4de15c5badde5b39f1dea2.png?1587412734">
+<img class="materials-banner__image materials-banner__image--desktop" alt="banner image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/marketing_images/212/eecfaec5323c2481ecfc84e0f889bd7860a3bf28.png?1587412740">
+</a>
+<div class="materials-banner__close js-materials-banner-close materials-banner__close--top"></div>
+</div>
+</div>
+<div class="container post">
+<div id="show_blog_post">
+<article id="blog_post" class="blog_post">
+<header>
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 header">
+<span class="category-tag" style="background-color: #f08332;">Profissões</span>
+<div class="title">
+<h1>Quais são as áreas de atuação da Fonoaudiologia?</h1>
+</div>
+<div class='authoring'>
+<span>
+<i class="fa fa-pencil"></i>
+por
+<a href="/revista/autor/fernanda-alves">
+Maria Fernanda Alves
+</a> em 25/03/19
+</span>
+<span><i class="fa fa-eye"></i>6,5 mil visualizações</span>
+</div>
+</div>
+</div>
+</header>
+<section id="content">
+<div class="row post-body-and-share-container" id="post-body-and-share-container">
+<div class="col-md-1 col-lg-offset-1">
+<div class="social-media-share-column" id="social-media-share-column">
+<div class="social-media-share-container" data-ncells="4" id="social-media-share-container">
+<div class="shares share-button " data-size="large">
+<div class="shares-count">6</div>
+<div class="shares-label">SHARES</div>
+</div>
+<a id="facebook-share-id" class="facebook-share-button share-button" href="https://www.facebook.com/dialog/share?app_id=179466578778411&display=popup&href=https%3A%2F%2Fquerobolsa.com.br%2Frevista%2Fquais-sao-as-areas-de-atuacao-da-fonoaudiologia" data-size="large" onclick="javascript:window.open($(this).attr('href'), '', 'height=700, width=600, top=' + ($(window).height() / 2 -350) + ', left=' + ($(window).width() / 2 -300) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');return false;" target="_blank" title="Share on Facebook" rel="noopener noreferrer">
+<img class="share-image" alt="facebook icon" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/facebook-centralized-32c95e4bab8c478b0feaf8ee5a5c8b57008f5549fe71cb3c967791a9ebfa6ff4.svg">
+</a>
+<a id="twitter-share-js" class="twitter-share-button share-button" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fquerobolsa.com.br%2Frevista%2Fquais-sao-as-areas-de-atuacao-da-fonoaudiologia" data-size="large" onclick="javascript:window.open(this.href, '',
+        'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600, top='
+        + ($(window).height() / 2 -150) + ', left=' + ($(window).width() / 2 -300) + '');return false;" target="_blank" title="Share on Twitter" rel="noopener noreferrer">
+<img class="share-image" alt="twitter icon" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/l-twitter-white-on-blue-b3a768e0a44935669eb6f3800705564dd3e874b4267bc196fc6c9be3163b91ac.svg">
+</a>
+<a id="whatsapp-share-js" class="whatsapp-share-button share-button visible-xs" href="whatsapp://send?text=https://querobolsa.com.br/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia" data-action="share/whatsapp/share">
+<img alt="WhatsApp Share" class="share-image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/logos/WhatsApp_Logo_2-e5d889ccfe668e6e931dd5417495573762d0101ffb28afabde0f86173d433db3.jpg">
+</a>
+<a id="comments" class="go-to-comments-button share-button" href="#latest-posts" data-size="large"> 
+<img class="share-image" alt="comment icon" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/svg/i-comments-c7cfc43bb23bb71be532a2b43afe5c55fc2e21c951debf0dae2534e93d1606c7.svg">
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-10 col-lg-8" id="post-body-container">
+<div class="body">
+<p><a href="https://querobolsa.com.br/cursos-e-faculdades/fonoaudiologia" target="_blank">Fonoaudiologia</a> é um curso superior da <b>área da saúde</b> com duração de ate dez semestres. É a área de estudo que produz conhecimento sobre comunicação escrita e oral, voz e audição, sendo os fonoaudiólogos responsáveis pelo trabalho de habilitação e reabilitação da voz, atenção a distúrbios da audição, motricidade oral, leitura e escrita.<br><br></p><div style="font-weight: bold; text-align: center;"><img src="" id="17078" class="lazy" style="font-weight: 300; width: 435.844px; height: 291.173px;" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/17078/83a8d1eafccc3f77e6bd06fb0382a114bb987226.jpg?1553517778"></div><p><br>O Conselho Federal de Fonoaudiologia (CFFa) reconhece <b>12 áreas de atuação na Fonoaudiologia</b>, e você conhecerá um pouquinho sobre cada uma delas na lista abaixo:</p><ol>
+<li>
+<b>Audiologia</b><br>O profissional da especialidade denominada Audiologia, <b>atua na recuperação de diversos distúrbios auditivos</b>, proporcionando desde terapias até à adaptação de aparelhos auditivos, para aqueles que perderam parcialmente a audição.</li>
+<li>
+<b>Linguagem<br></b>Já nesta especialidade <b>o profissional trabalhará com aspectos que envolvem a comunicação oral e escrita</b>, visando identificar e trabalhar possíveis distúrbios no processo de desenvolvimento da comunicação na esfera citada desde a infância à vida adulta.</li>
+<li>
+<b>Motricidade<br></b>Na área de atuação da Fonoaudiologia denominada Motricidade, o fonoaudiólogo trabalhará na<b> habilitação e reabilitação de funções relacionadas à respiração, sucção, mastigação, deglutição, expressão facial e articulação da fala</b>, visando melhores condições de vida e de comunicação do paciente.</li>
+<li>
+<b>Saúde Coletiva</b><br>O profissional de Fonoaudiologia também tem espaço na Saúde Coletiva, <b>fazendo parte de grupos de estudos e reflexões sobre políticas públicas no sistema de saúde no Brasil</b>. O profissional dessa área também pode atuar na atenção à saúde, sendo na promoção, prevenção, educação e intervenção, a partir do diagnóstico de grupos populacionais.</li>
+<li>
+<b>Voz<br></b>Nesta área, o fonoaudiólogo atuará na <b>avaliação, no diagnóstico e na reabilitação de problemas vocais</b>, bem como com o aperfeiçoamento estético da comunicação e expressividade da voz, o canto, por exemplo. Também poderá atuar com a prevenção de patologias vocais, na perícia vocal (fonoaudiologia forense), na assessoria, consultoria e condicionamento vocal.</li>
+<li>
+<b>Disfagia<br></b>Nesta área da Fonoaudiologia, <b>o profissional poderá atuar na avaliação e no diagnóstico  de </b><b>distúrbios da deglutição</b>, com intuito de intervir (habilitar e/ou reabilitar) para prover melhoria na qualidade de vida do paciente. </li>
+<li>
+<b>Fonoaudiologia Educacional</b><br>Na área da Fonoaudiologia Educacional, <b>o profissional terá espaço para atuar na promoção, aprimoramento e prevenção de alterações dos aspectos relacionados à audição, linguagem (oral e escrita), motricidade oral e voz</b> que favoreçam e otimizem o processo de ensino e aprendizagem.<br>
+</li>
+<li>
+<b>Gerontologia</b><br>Nesta área, muitas vezes sendo parte de uma equipe multidisciplinar, <b>o fonoaudiólogo </b><b>atua na promoção da saúde do idoso</b>, prevenção, avaliação, diagnóstico, habilitação/reabilitação dos distúrbios relacionados à fala, audição, ao equilíbrio, à deglutição, motricidade orofacial e voz nessa população. </li>
+<li>
+<b>Fonoaudiologia Neurofuncional</b><br>Nesta especialidade,<b> o fonoaudiólogo realiza avaliação, diagnóstico, prognóstico, habilitação e reabilitação fonoaudiológicos de pessoas com alterações neurofuncionais </b>provenientes de sequelas resultantes de danos ao sistema nervoso central ou periférico.</li>
+<li>
+<b>Fonoaudiologia do Trabalho</b><br>Nesta área, <b>o profissional participa de campanhas educativas, palestras e ações de conscientização dos trabalhadores</b> e elabora estratégias de promoção e proteção em saúde no que se refere a Fonoaudiologia.<br>
+</li>
+<li>
+<b>Neuropsicologia</b><br>Na área de Neuropsicologia, o fonoaudiólogo trabalha com intuito de prevenir, avaliar, tratar e gerenciar os <b>distúrbios que afetam a comunicação humana e sua interface com a cognição</b>.</li>
+<li>
+<span><b>Fluência</b><br></span>Por fim, na área da Fluência <b>o profissional de Fonoaudiologia poderá atuar na identificação de tipologias das disfluências</b> típicas e atípicas para o diagnóstico e intervenção em transtornos da fluência, poderão tratar, por exemplo, pessoas com gagueira. <br>
+</li>
+</ol><h4>
+<b>Fonte:</b> Conselho Regional de Fonoaudiologia de São Paulo e Conselho Regional de Fonoaudiologia de Brasília </h4><hr><p><span style="color: rgb(51, 51, 51); font-family: inherit; font-size: 22px; font-weight: bold;"><br>Pensando em começar a faculdade de Fonoaudiologia?</span><br></p><p><span>Se você decidiu que Fonoaudiologia é o curso certo para você, veja abaixo uma lista de dicas que podem ser muito úteis antes de se matricular em uma universidade:</span></p><ul>
+<li><span><a href="https://querobolsa.com.br/cursos-e-faculdades/fonoaudiologia/quanto-ganha-fonoaudiologo-salario" target="_blank">Salário médio Fonoaudiólogo</a></span></li>
+<li><span><a href="https://querobolsa.com.br/cursos-e-faculdades/fonoaudiologia/bolsas" target="_blank">Bolsas de estudos para Fonoaudiologia</a></span></li>
+<li><span><a href="https://querobolsa.com.br/sisu/notas-de-corte/cursos/fonoaudiologia" target="_blank">Notas de corte</a></span></li>
+<li><span><a href="https://querobolsa.com.br/cursos-e-faculdades/fonoaudiologia/grade-curricular" target="_blank">Grade curricular</a> </span></li>
+</ul><p>
+<div class="courses-widget js-courses-widget hide" data-course-id="218" data-university-id="">
+<div class="courses-widget__wrapper">
+<div class="courses-widget__container swiper-container js-courses-widget-container">
+<h2 class="courses-widget__title">
+<span class="js-widget-title js-course-name"></span>
+</h2>
+<p class="paragraph paragraph--m courses-widget__sub-header">
+Mostrando cursos em
+<span class="courses-widget__select-wrapper courses-widget__select-wrapper--underline">
+<select name="city-field" class="js-courses-widget-city-field"></select>
+</span>
+<a href="#" target="_blank" class="courses-widget__external-link courses-widget__external-link--desktop js-courses-page-link js-search-top-link">
+Veja mais vagas
+<span class="courses-widget__external-link-icon">
+<svg width="9" height="12" viewBox="0 0 4 8" xmlns="https://www.w3.org/2000/svg"><path d="M0 6.424l.8.866 3-3.247L.8.797l-.8.866 2.2 2.38L0 6.423z" fill="currentColor" fill-rule="evenodd" /></svg>
+</span>
+</a>
+</p>
+<ul class="courses-widget__cards js-cards swiper-wrapper">
+<li class="courses-widget__item courses-widget__item--main js-main-card swiper-slide">
+<div class="courses-widget__item-backdrop"></div>
+<h2 class="heading heading--2 heading--no-margin courses-widget__main-title">Mensalidades a partir de</h2>
+<div class="courses-widget__item-offered-price courses-widget__item-max-offered-price__label--m">
+R$ <span class="js-start-value">270</span>,00
+</div>
+<a href="#" class="button button--m courses-widget__main-button js-courses-page-link js-main-card-link" target="_blank">Ver Bolsas</a>
+</li>
+<li class="courses-widget__item js-card hide swiper-slide" title="">
+<div class="courses-widget__item-logo">
+<img class="courses-widget__item-logo-img js-card-logo" src="" alt="">
+</div>
+<hr class="courses-widget__item-separator">
+<div class="courses-widget__item-title">
+<span class="js-course-name">{course}</span>&nbsp;<span class="js-card-university-name">{university}</span>
+</div>
+<p class="courses-widget__item-info paragraph paragraph--m">
+Mensalidades a partir de <span class="pgc-label--m pgc-label--green pgc-label--bold">R$ <span class="js-card-value">2400</span></span><span class="pgc-label--green pgc-label--bold courses-widget__item-price-monthly">/mês</span>
+</p>
+</li>
+</ul>
+<a href="#" target="_blank" class="courses-widget__external-link js-courses-page-link js-search-top-link">
+Veja mais cursos
+<span class="courses-widget__external-link-icon">
+<svg width="9" height="12" viewBox="0 0 4 8" xmlns="http://www.w3.org/2000/svg"><path d="M0 6.424l.8.866 3-3.247L.8.797l-.8.866 2.2 2.38L0 6.423z" fill="currentColor" fill-rule="evenodd" /></svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</p>
+</div>
+</div>
+</div>
+</section>
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+<div class="tags-container">
+<p>Tags relacionadas:</p>
+<a href="https://querobolsa.com.br/cursos-e-faculdades/fonoaudiologia" class="post-tag" target="_blank">Fonoaudiologia</a>
+</div>
+<div class="divider"></div>
+</div>
+</div>
+<section class="author">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+<span class="author-about">Sobre o autor</span>
+<a href="/revista/autor/fernanda-alves">
+<div class="author-box">
+<div class="author-pic">
+<img alt="author" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://gravatar.com/avatar/2c2dd5aa22c75a73e3f457b8ac0af571.png?s=67">
+</div>
+<div class="author-info">
+<div class="author-name">Maria Fernanda Alves</div>
+<div class="author-bio"><p>Formada em Psicologia, estudante de Letras e apaixonada pelo universo da Educação. </p></div>
+</div>
+</div>
+</a> </div>
+</div>
+</section>
+</article>
+</div>
+</div>
+<div class="materials-banner js-materials-banner" data-category="Profissões">
+<div class="materials-banner__holder ">
+<a href="https://querobolsa.com.br/" target="_blank">
+<img class="materials-banner__image" alt="banner image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/marketing_images/211/b10421b0fcfd0a878d4de15c5badde5b39f1dea2.png?1587412734">
+<img class="materials-banner__image materials-banner__image--desktop" alt="banner image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/marketing_images/212/eecfaec5323c2481ecfc84e0f889bd7860a3bf28.png?1587412740">
+</a>
+<div class="materials-banner__close js-materials-banner-close "></div>
+</div>
+</div>
+<div class="related-posts">
+<div class="container">
+<h2>Posts Relacionados</h2>
+<div class="row">
+<div class="col-sm-4">
+<div class="card card-with-footer card-small">
+<a href="/revista/seguranca-do-trabalho-veja-as-possibilidades-da-area">
+<img class="img-responsive" alt="Profissões card image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/17659/c545cb9f65f253cbda675450342faeceeed750bf.png?1554323350">
+</a> <a href="/revista/assunto/profissoes">
+<span class="category-tag" style="background-color: #f08332;">Profissões</span>
+</a> <div class="caption">
+<div class="caption-body">
+<a href="/revista/seguranca-do-trabalho-veja-as-possibilidades-da-area">
+<h3 class='post-title-js'>Segurança do Trabalho: veja as possibilidades da área</h3>
+</a> <h8>
+por
+<a href="/revista/autor/mathias-sallit">
+Mathias Sallit
+</a> em 03/04/19
+</h8>
+<p class="medium">O Ministério da Economia lançou uma campanha de prevenção de acidentes de trabalho nesta quarta-feira (3). Veja as possibilidades de formação da...</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="card card-with-footer card-small">
+<a href="/revista/fisioterapia-e-terapia-ocupacional-entenda-a-diferenca">
+<img class="img-responsive" alt="Profissões card image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/17233/2fcd8e8ed4d59a5e6fd82446ee3c1d6a90d1fa91.png?1553628739">
+</a> <a href="/revista/assunto/profissoes">
+<span class="category-tag" style="background-color: #f08332;">Profissões</span>
+</a> <div class="caption">
+<div class="caption-body">
+<a href="/revista/fisioterapia-e-terapia-ocupacional-entenda-a-diferenca">
+<h3 class='post-title-js'>Fisioterapia e Terapia Ocupacional: entenda a diferença</h3>
+</a> <h8>
+por
+<a href="/revista/autor/mathias-sallit">
+Mathias Sallit
+</a> em 02/04/19
+</h8>
+<p class="medium">Saiba que as profissões podem se complementar, mas são duas formações distintas; veja as principais diferenças entre a Fisioterapia e a Terapia...</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="card card-with-footer card-small">
+<a href="/revista/entenda-a-diferenca-entre-os-cursos-agronegocio-agronomia-e-engenharia-agricola">
+<img class="img-responsive" alt="Profissões card image" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/16906/8350c2e7be3f817890b845040cf9f3f579136f04.png?1553115486">
+</a> <a href="/revista/assunto/profissoes">
+<span class="category-tag" style="background-color: #f08332;">Profissões</span>
+</a> <div class="caption">
+<div class="caption-body">
+<a href="/revista/entenda-a-diferenca-entre-os-cursos-agronegocio-agronomia-e-engenharia-agricola">
+<h3 class='post-title-js'>Entenda a diferença entre os cursos Agronegócio, Agronomia e Engenharia Agrícola</h3>
+</a> <h8>
+por
+<a href="/revista/autor/patricia-leite">
+Patrícia Carvalho
+</a> em 25/03/19
+</h8>
+<p class="medium">Você sabia que o setor agrícola emprega 19 milhões de pessoas no Brasil? Veja detalhes...</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container post">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2" id="latest-posts">
+<h2>O que você achou deste artigo?</h2>
+<div class="fb-comments" data-observed-id="3596" data-observed-type="revista" data-observed-title="Quais são as áreas de at..." data-observed-author="fernanda alves" data-colorscheme="light" order_by="reverse_time" data-href='https://querobolsa.com.br/revista/quais-sao-as-areas-de-atuacao-da-fonoaudiologia' data-width="100%" data-numposts="5">
+</div>
+</div>
+</div>
+</div>
+<div class="qb-lead-assistant">
+<div class="qb-lead-assistant__container js-lead-assistant-container hide">
+<input class="js-lead-assistant-input-origin" type="hidden" value="revista_profissoes">
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-intro hide">
+<div class="qb-lead-assistant__header js-lead-assistant-header">
+<span class="qb-lead-assistant__header-title">ALERTA DE VAGAS</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Você pretende trabalhar e estudar ao mesmo tempo?
+</div>
+</div>
+<div class="qb-lead-assistant__footer">
+<a class="pgc-btn pgc-btn--main pgc-btn--block js-lead-assistant-intro-button" href="javascript:;">
+<span class="pgc-btn__inner">
+<span class="pgc-btn__text">
+Sim, eu pretendo
+</span>
+</span>
+</a>
+<a class="link link--l link--underline qb-lead-assistant__footer-link js-lead-assistant-not-sure-button" href="javascript:;">
+Não vou trabalhar
+</a>
+</div>
+</div>
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-not-sure hide">
+<div class="qb-lead-assistant__header js-lead-assistant-header">
+<span class="qb-lead-assistant__header-title">ALERTA DE VAGAS</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Para se dedicar integralmente aos estudos é sempre bom economizar.<img class="emoji" src="//d13e6x2832emvc.cloudfront.net/revista_assets/emojis/money-c94fde8014ac9b0d5ad05d244e1821fb246018cdc3570b09f72c25fde99f7b1a.png" alt="Money c94fde8014ac9b0d5ad05d244e1821fb246018cdc3570b09f72c25fde99f7b1a" />
+</div>
+<p class="paragraph paragraph--lg">
+Gostaria de ser avisado sempre que uma <strong>vaga</strong> estiver disponível aqui no site <strong>Quero Bolsa</strong>?
+</p>
+</div>
+<div class="qb-lead-assistant__footer">
+<a class="pgc-btn pgc-btn--main pgc-btn--block js-lead-assistant-second-intro-button" href="javascript:;">
+<span class="pgc-btn__inner">
+<span class="pgc-btn__text">
+Sim, quero ser avisado
+</span>
+</span>
+</a>
+<a class="link link--l link--underline qb-lead-assistant__footer-link js-lead-assistant-not-now-button" href="javascript:;">
+Deixar para depois
+</a>
+</div>
+</div>
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-course hide">
+<div class="qb-lead-assistant__header js-lead-assistant-header">
+<span class="qb-lead-assistant__header-title">ALERTA DE VAGAS</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Nós podemos te ajudar
+<img class="emoji" src="//d13e6x2832emvc.cloudfront.net/revista_assets/emojis/raised_hands-93ba2838e7c9b110e7b370ddadc1892902fe94722a836c919cb013fa7ced527d.png" alt="Raised hands 93ba2838e7c9b110e7b370ddadc1892902fe94722a836c919cb013fa7ced527d" />
+</div>
+<div class="js-intro-description hide">
+<p class="paragraph paragraph--lg">
+Aqui no <strong>Quero Bolsa</strong> você encontra as melhores vagas em diversos turnos,
+até mesmo <strong>ensino a distância</strong>.
+</p>
+</div>
+<p class="paragraph paragraph--lg js-lead-assistant-description">
+Preencha os campos abaixo para receber avisos de vagas disponíveis
+em nosso site de acordo com seus interesses.
+</p>
+<form class="form" onsubmit="false">
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-level">Nível de curso</label>
+<select id="lead-assistant-input-level" class="pgc-input pgc-input--l qb-lead-assistant-input-level js-lead-assistant-input-level" name="lead-assistant-input-level">
+<option value="" disabled hidden selected>Selecione um nível de curso</option>
+<option value="Graduação">Graduação</option>
+<option value="Pós-graduação">Pós-graduação</option>
+<option value="Técnico">Técnico</option>
+<option value="Cursos livres e outros">Cursos livres e outros</option>
+</select>
+</div>
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-courses">Cursos do seu interesse</label>
+<select id="lead-assistant-input-courses" class="js-lead-assistant-input-courses" name="lead-assistant-input-courses" disabled></select>
+</div>
+<div class="input-group qb-lead-assistant__tags-holder js-lead-assistant-tags-holder">
+<input class="js-lead-assistant-selected-courses" type="hidden">
+</div>
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-cities">Cidades do seu interesse</label>
+<select id="lead-assistant-input-cities" class="js-lead-assistant-input-cities" name="lead-assistant-input-cities"></select>
+</div>
+<div class="input-group qb-lead-assistant__tags-holder js-lead-assistant-tags-holder">
+<input class="js-lead-assistant-selected-cities" type="hidden">
+</div>
+</form>
+</div>
+<div class="qb-lead-assistant__footer">
+<button class="pgc-btn pgc-btn--main pgc-btn--block qb-lead-assistant__footer-button-w-margin js-lead-assistant-course-button">
+<span class="pgc-btn__inner">
+<span class="pgc-btn__text">
+Avançar
+</span>
+</span>
+</button>
+</div>
+</div>
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-contact hide">
+<div class="qb-lead-assistant__header js-lead-assistant-header">
+<span class="qb-lead-assistant__header-title">ALERTA DE VAGAS</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Deixe seus contatos
+<img class="emoji" src="//d13e6x2832emvc.cloudfront.net/revista_assets/emojis/mailbox-3aaacb172f1a1e1ba19b2e93f60f637592c84194967e63e952c08d3cb04fa7a8.png" alt="Mailbox 3aaacb172f1a1e1ba19b2e93f60f637592c84194967e63e952c08d3cb04fa7a8" />
+</div>
+<form class="form" onsubmit="false">
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-name">Nome</label>
+<input class="pgc-input pgc-input--l js-lead-assistant-input-name" placeholder="Coloque o seu nome" type="text">
+</div>
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-email">E-mail de contato</label>
+<input class="pgc-input pgc-input--l js-lead-assistant-input-email" placeholder="Coloque o seu e-mail" type="text">
+</div>
+<div class="input-group qb-lead-assistant__input-group">
+<label class="input-label" for="lead-assistant-input-phone">Telefone com Whatsapp</label>
+<input class="pgc-input pgc-input--l js-lead-assistant-input-phone" placeholder="Seu telefone com DDD" type="text" maxlength="14">
+</div>
+<div class="input-group qb-lead-assistant__input-group">
+<div class="pgc-fancy pgc-fancy--margin-bottom">
+<input checked="checked" class="pgc-fancy__input" id="lead-assistant-input-notify-by-whatsapp" type="checkbox">
+<label class="pgc-fancy__label qb-lead-assistant__checkbox-label" for="lead-assistant-input-notify-by-whatsapp">
+<div class="pgc-fancy__box pgc-fancy__box--square">
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="12" viewBox="0 0 15 12" class="pgc-fancy__icon pgc-fancy__icon--check"><title>i-success-filled</title><path d="M5 12L0 7l2-2 3 3 8-8 2 2" fill-rule="evenodd"></path></svg>
+</div>
+Quero ser notificado pelo WhatsApp
+</label>
+</div>
+</div>
+</form>
+</div>
+<div class="qb-lead-assistant__footer">
+<a class="pgc-btn pgc-btn--main pgc-btn--block js-lead-assistant-contact-button" href="javascript:;">
+<span class="pgc-btn__inner">
+<span class="pgc-btn__text">
+Me avise
+</span>
+</span>
+</a>
+<a class="link link--l link--underline qb-lead-assistant__footer-link js-lead-assistant-back js-footer-back-button" href="javascript:;">
+Voltar
+</a>
+</div>
+</div>
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-success hide">
+<div class="qb-lead-assistant__header js-lead-assistant-header">
+<span class="qb-lead-assistant__header-title">ALERTA DE VAGAS</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Falta só mais um passo!
+<img class="emoji" src="//d13e6x2832emvc.cloudfront.net/revista_assets/emojis/raised_hands-93ba2838e7c9b110e7b370ddadc1892902fe94722a836c919cb013fa7ced527d.png" alt="Raised hands 93ba2838e7c9b110e7b370ddadc1892902fe94722a836c919cb013fa7ced527d" />
+</div>
+<p class="paragraph paragraph--lg">
+<strong>
+As nossas melhores vagas chegam de surpresa. Por isso fique ligado.
+</strong>
+</p>
+<p class="paragraph paragraph--lg">
+Com a sua confirmação enviaremos ofertas exclusivas diretamente no seu Whatsapp.
+Rápido, fácil, prático e na tela do seu celular.
+</p>
+</div>
+<div class="qb-lead-assistant__footer">
+<a class="pgc-btn pgc-btn--block pgc-btn--main js-lead-assistant-open-whatsapp-link hidden-xs" target="_blank" href="https://web.whatsapp.com/send?l=pt&amp;phone=558001232222&amp;text=*Quero* ser avisado sempre que as melhores bolsas ficarem disponíveis!">
+<span class="pgc-btn__inner">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="pgc-btn__icon"><title>Shape</title><path d="M20.396 3.502c-2.22-2.234-5.24-3.486-8.39-3.478-6.54 0-11.86 5.32-11.862 11.86-.002 2.08.544 4.126 1.584 5.93L.045 23.96l6.288-1.65c1.74.947 3.687 1.444 5.667 1.444h.005c6.537 0 11.86-5.32 11.86-11.86.01-3.15-1.238-6.17-3.47-8.392zm-8.39 18.25H12c-1.766 0-3.5-.476-5.018-1.375l-.36-.214-3.73.98.995-3.64-.235-.374c-.986-1.572-1.508-3.39-1.505-5.244 0-5.435 4.425-9.857 9.863-9.857 5.444.002 9.856 4.418 9.854 9.863-.002 5.435-4.425 9.858-9.858 9.858zm5.407-7.384c-.296-.15-1.753-.865-2.025-.967-.272-.1-.47-.148-.667.15-.196.296-.764.966-.937 1.16-.173.196-.346.223-.642.075-.295-.148-1.25-.46-2.383-1.47-.88-.787-1.475-1.757-1.65-2.054-.172-.296-.017-.454.13-.603.134-.133.297-.347.445-.52.15-.172.198-.296.297-.494.098-.197.048-.37-.026-.52-.074-.147-.666-1.604-.91-2.198-.242-.578-.486-.5-.668-.51-.17-.007-.37-.01-.57-.01-.302.01-.59.143-.79.372-.27.297-1.036 1.014-1.036 2.472 0 1.457 1.06 2.867 1.21 3.065.148.198 2.09 3.19 5.06 4.475.553.24 1.117.447 1.69.626.71.227 1.357.194 1.868.118.568-.086 1.753-.718 2-1.41.247-.692.247-1.286.17-1.41-.076-.122-.27-.198-.565-.346z" fill="#FFFFFF" fill-rule="evenodd"></path></svg>
+<span class="pgc-btn__text">
+Sim, quero ser avisado
+</span>
+</span>
+</a> <a class="pgc-btn pgc-btn--block pgc-btn--main js-lead-assistant-open-whatsapp-link hidden-sm hidden-md hidden-lg" target="_blank" href="whatsapp://send?phone=558001232222&amp;text=*Quero* ser avisado sempre que as melhores bolsas ficarem disponíveis!">
+<span class="pgc-btn__inner">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="pgc-btn__icon"><title>Shape</title><path d="M20.396 3.502c-2.22-2.234-5.24-3.486-8.39-3.478-6.54 0-11.86 5.32-11.862 11.86-.002 2.08.544 4.126 1.584 5.93L.045 23.96l6.288-1.65c1.74.947 3.687 1.444 5.667 1.444h.005c6.537 0 11.86-5.32 11.86-11.86.01-3.15-1.238-6.17-3.47-8.392zm-8.39 18.25H12c-1.766 0-3.5-.476-5.018-1.375l-.36-.214-3.73.98.995-3.64-.235-.374c-.986-1.572-1.508-3.39-1.505-5.244 0-5.435 4.425-9.857 9.863-9.857 5.444.002 9.856 4.418 9.854 9.863-.002 5.435-4.425 9.858-9.858 9.858zm5.407-7.384c-.296-.15-1.753-.865-2.025-.967-.272-.1-.47-.148-.667.15-.196.296-.764.966-.937 1.16-.173.196-.346.223-.642.075-.295-.148-1.25-.46-2.383-1.47-.88-.787-1.475-1.757-1.65-2.054-.172-.296-.017-.454.13-.603.134-.133.297-.347.445-.52.15-.172.198-.296.297-.494.098-.197.048-.37-.026-.52-.074-.147-.666-1.604-.91-2.198-.242-.578-.486-.5-.668-.51-.17-.007-.37-.01-.57-.01-.302.01-.59.143-.79.372-.27.297-1.036 1.014-1.036 2.472 0 1.457 1.06 2.867 1.21 3.065.148.198 2.09 3.19 5.06 4.475.553.24 1.117.447 1.69.626.71.227 1.357.194 1.868.118.568-.086 1.753-.718 2-1.41.247-.692.247-1.286.17-1.41-.076-.122-.27-.198-.565-.346z" fill="#FFFFFF" fill-rule="evenodd"></path></svg>
+<span class="pgc-btn__text">
+Sim, quero ser avisado
+</span>
+</span>
+</a> <a class="link link--l link--underline qb-lead-assistant__footer-link js-lead-assistant-success-not-now-button" href="javascript:;">
+Deixar para depois
+</a>
+</div>
+</div>
+<div class="qb-lead-assistant__box js-lead-assistant-box js-lead-assistant-help hide">
+<div class="qb-lead-assistant__header">
+<span class="qb-lead-assistant__header-title">CENTRAL DE AJUDA</span>
+<span class="qb-lead-assistant__close js-lead-assistant-close">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</span>
+</div>
+<div class="qb-lead-assistant__body">
+<div class="heading heading--3 qb-lead-assistant__body-title">
+Como podemos te ajudar?
+</div>
+<p class="paragraph paragraph--lg">
+Gostaria de saber como o Quero Bolsa funciona e se o site é confiável.
+</p>
+<a class="button button--l button--option js-lead-assistant-faq-link qb-lead-assistant__faq-link-mobile" href="https://querobolsa.com.br/perguntas-frequentes" target="_blank">
+Veja as perguntas frequentes
+</a>
+<a class="link link--l js-lead-assistant-faq-link hidden-xs" href="https://querobolsa.com.br/perguntas-frequentes" target="_blank">
+Veja as perguntas frequentes
+</a>
+<hr class="divider divider--spaced-st">
+<p class="paragraph paragraph--lg">
+Quero receber vagas de acordo com meus interesses diretamente em meu e-mail e WhatsApp.
+</p>
+<button class="button button--l button--option js-lead-assistant-faq-intro-button visible-xs">
+Cadastrar meu e-mail e celular
+</button>
+<a class="link link--l js-lead-assistant-faq-intro-button hidden-xs" href="javascript:;">
+Cadastrar meu e-mail e celular
+</a>
+</div>
+</div>
+</div>
+<div class="qb-lead-assistant__hook js-lead-assistant-hook hide">
+<div class="qb-lead-assistant__box">
+<div class="qb-lead-assistant__hook-text">
+Você pretende trabalhar e estudar ao mesmo tempo?
+</div>
+<div class="qb-lead-assistant__close js-lead-assistant-close qb-lead-assistant__close--hook">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><title>i-close</title><path d="M12.943 12L23.805 1.138c.12-.12.195-.287.195-.47 0-.37-.298-.668-.667-.668-.184 0-.35.075-.47.195L12 11.057 1.138.195C1.018.075.85 0 .668 0 .297 0 0 .3 0 .667c0 .184.074.35.195.472L11.057 12 .195 22.862c-.12.12-.195.287-.195.47 0 .37.298.668.667.668.184 0 .35-.075.47-.195L12 12.943l10.862 10.862c.12.12.287.195.47.195.37 0 .668-.298.668-.667 0-.184-.074-.35-.195-.47L12.943 12z" fill-rule="evenodd"></path></svg>
+</div>
+<div class="qb-lead-assistant__hook-footer">
+<button class="pgc-btn pgc-btn--main pgc-btn--block js-lead-assistant-intro-button">
+<span class="pgc-btn__inner qb-lead-assistant__hook-footer__button">
+<span class="pgc-btn__text">
+Sim, eu pretendo
+</span>
+</span>
+</button>
+<a class="qb-lead-assistant__hook-footer__link link link--l link--underline js-lead-assistant-not-sure-button" href="javascript:;">
+Não vou trabalhar
+</a>
+</div>
+</div>
+</div>
+<div class="qb-lead-assistant__balloon js-lead-assistant-balloon">
+<span class="qb-lead-assistant__balloon-smile"></span>
+</div>
+</div>
+<div id="footer" class="footer">
+<div class="container">
+<div class="row five-columns hidden-xs">
+<div class="col-sm-2 no-right-padding">
+<ul>
+<li class="header">Encontre seu curso</li>
+<li><a rel="noopener" href="/busca-cursos/resultados">Busque por Curso</a></li>
+<li><a rel="noopener" href="/faculdades-e-universidades">Lista de Faculdades</a></li>
+<li><a rel="noopener" href="/cursos-e-faculdades">Lista de Cursos</a></li>
+<li><a rel="noopener" href="/carreiras-e-profissoes/todas">Lista de Profissões</a></li>
+<li><a rel="noopener" target="_blank" href="/idiomas?utm_source=querobolsa&amp;utm_medium=referral&amp;utm_campaign=link-footer">Cursos de Idiomas</a></li>
+<li><a rel="noopener" href="/cursos-livres">Cursos Livres</a></li>
+<li><a rel="noopener" href="/ead-a-distancia">Cursos EaD</a></li>
+<li><a rel="noopener" href="/cursos-tecnologos">Cursos Tecnólogos</a></li>
+<li><a rel="noopener" href="/pos-graduacao">Cursos Pós-Graduação</a></li>
+</ul>
+</div>
+<div class="col-sm-2 no-right-padding">
+<ul>
+<li class="header">Central de Ajuda</li>
+<li><a rel="noopener" href="/o-que-e-o-quero-bolsa">O que é o Quero Bolsa</a></li>
+<li><a rel="noopener" href="/como-funciona">Passo a Passo</a></li>
+<li><a rel="noopener" href="/perguntas-frequentes">Perguntas Frequentes</a></li>
+<li><a rel="noopener" href="/politica_de_privacidade">Política de Privacidade</a></li>
+<li><a rel="noopener" href="/termos_e_condicoes">Termos e Condições</a></li>
+<li><a rel="noopener" href="/educamaisbrasil">Vs Educa Mais Brasil</a></li>
+<li><a rel="noopener" href="/maisestudo-neora">Vs Mais Estudo/Neora</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<ul>
+<li class="header">Programas do Governo</li>
+<li><a rel="noopener" href="/programas-do-governo">Notas de corte</a></li>
+<li><a rel="noopener" href="/enem">Enem</a></li>
+<li><a rel="noopener" href="/prouni">Prouni</a></li>
+<li><a rel="noopener" href="/sisu">Sisu</a></li>
+<li><a rel="noopener" href="/fies">Fies</a></li>
+<li><a rel="noopener" href="/encceja">Encceja</a></li>
+</ul>
+</div>
+<div class="col-sm-2 hidden-sm">
+<ul>
+<li class="header">Revista Quero</li>
+<li><a rel="noopener" href="/revista/assunto/vestibular-e-enem">Vestibular e Enem</a></li>
+<li><a rel="noopener" href="/revista/assunto/dicas-e-curiosidades">Dicas e Curiosidades</a></li>
+<li><a rel="noopener" href="/revista/assunto/especiais">Especiais</a></li>
+<li><a rel="noopener" href="/revista/assunto/profissoes">Profissões</a></li>
+<li><a rel="noopener" href="/revista/assunto/pos-graduacao">Pós-Graduação</a></li>
+<li><a rel="noopener" href="/revista/assunto/idiomas">Idiomas</a></li>
+<li><a rel="noopener" href="/enem/manual-do-enem">Manual do Enem</a></li>
+<li><a rel="noopener" href="/enem/gabarito">Gabarito do Enem</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<ul>
+<li class="header">Institucional</li>
+<li><a target="_blank" rel="noopener noreferrer" href="https://jobs.lever.co/quero.education">Trabalhe conosco</a></li>
+<li><a target="_blank" rel="noopener" href="https://queroalunos.com">Portal do Parceiro</a></li>
+<li><a target="_blank" rel="noopener" href="https://gestores.queroeducacao.com.br">Quero ser Parceiro</a></li>
+<li><a class="mailto" href="mailto:imprensa@querobolsa.com.br">Imprensa</a></li>
+<li><a target="_blank" rel="noopener" href="https://gestores.queroeducacao.com.br">Captação de Alunos</a></li>
+<li>App <a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.redealumni.appquerobolsa&amp;hl=pt_BR">Quero Bolsa</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<ul>
+<li class="header">Dicas Quero Bolsa</li>
+<li><a target="_blank" rel="noopener" href="/intercambio?utm_source=querobolsa&amp;utm_medium=referral&amp;utm_campaign=link-footer">Intercâmbio</a></li>
+ <li><a target="_blank" rel="noopener" href="https://www.melhorescola.com.br">Melhor Escola</a></li>
+<li><a target="_blank" rel="noopener" href="/escolas">Vagas em escolas</a></li>
+<li><a target="_blank" rel="noopener" href="/servicos-recomendados">Serviços Parceiros</a></li>
+<li><a target="_blank" rel="noopener" href="/minha_conta/indicacoes">Quero Pontos</a></li>
+<li><a target="_blank" rel="noopener noreferrer" href="/teste-vocacional-gratis">Teste Vocacional</a></li>
+<li><a target="_blank" rel="noopener" href="/carreiras/cursos-gratuitos">Cursos Gratuitos</a></li>
+<li><a target="_blank" rel="noopener" href="https://pt-br.classpert.com">Cursos Online</a></li>
+<li><a target="_blank" rel="noopener" href="/portal-do-aluno">Portal do Aluno</a></li>
+<li><a target="_blank" rel="noopener" href="https://quero.com">quero.com</a></li>
+<div class="visible-sm">
+<li><a rel="noopener" href="/revista">Revista Quero</a></li>
+<li><a rel="noopener" href="/enem/manual-do-enem">Manual do Enem</a></li>
+<li><a rel="noopener" href="/enem/gabarito">Gabarito do Enem</a></li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="midia hidden-xs">
+<div class="container">
+<div class="row">
+<div class="col-sm-3">
+<p class="title">Somos destaque na imprensa</p>
+<p class="press">
+<a href="javascript:;" class="globo" onclick="loadYouTubeModal('htmWkci_HH0')">
+<img alt="Quero Bolsa na Globo" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/globo-12d0b617efdb5e648b0cccc63dc8b0ced8164c25a7b3827a5d6d49908fa0d68e.svg">
+</a>
+<a href="https://que.bo/materiafolha" class="folha" target="_blank" rel="noopener noreferrer nofollow">
+<img alt="Quero Bolsa Folha" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/folha-a55214867157573edcc9a0aec22bc1bb05cb837fb53adeaf98c941f880764fad.svg">
+</a>
+<a href="https://que.bo/materiaveja" class="veja" target="_blank" rel="noopener noreferrer nofollow">
+<img alt="Quero Bolsa Veja" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/veja-84cf0c98c3de5f990105b8c9554036d95bd971349fd23a8d9e65120dea80c8f0.svg">
+</a>
+</p>
+</div>
+<div class="col-sm-3 social">
+<p class="title">Curta nossos canais</p>
+<p itemscope itemtype="https://schema.org/Organization">
+<link itemprop="url" href="https://querobolsa.com.br">
+<a class="youtube" target="_blank" rel="nofollow noopener noreferrer" href="https://www.youtube.com/querobolsa"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="32px" height="32px"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+</a>
+<a class="instagram" target="_blank" rel="nofollow noopener noreferrer" href="https://www.instagram.com/querobolsa/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="32px" height="32px"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+</a>
+<a class="facebook" target="_blank" rel="nofollow noopener noreferrer" href="https://www.facebook.com/QueroBolsa/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32px" height="32px"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+</a>
+</p>
+</div>
+<div class="col-sm-3">
+<p class="title">Atendimento de excelência</p>
+<div class="epoca-holder clearfix">
+<div class="epoca">
+<img alt="Selo Campeã 2015 Reclame Aqui" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/premio-reclameaqui-2ba32f49825689a423aa4a6025e109e60c64db59503271c840882ebd064d3f62.svg">
+</div>
+<div class="text">
+Campeã 2015<br>
+Educação presencial
+</div>
+</div>
+</div>
+<div class="col-sm-3 no-right-padding">
+<p class="title">Política Bolsa Garantida</p>
+<div class="politica-holder clearfix">
+<div class="politica">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="48px" height="48px"><path d="M466.5 83.7l-192-80a48.15 48.15 0 0 0-36.9 0l-192 80C27.7 91.1 16 108.6 16 128c0 198.5 114.5 335.7 221.5 380.3 11.8 4.9 25.1 4.9 36.9 0C360.1 472.6 496 349.3 496 128c0-19.4-11.7-36.9-29.5-44.3zM262.2 478.8c-4 1.6-8.4 1.6-12.3 0C152 440 48 304 48 128c0-6.5 3.9-12.3 9.8-14.8l192-80c3.9-1.6 8.4-1.6 12.3 0l192 80c6 2.5 9.9 8.3 9.8 14.8.1 176-103.9 312-201.7 350.8zm136.2-325c-4.7-4.7-12.3-4.7-17-.1L218 315.8l-69-69.5c-4.7-4.7-12.3-4.7-17-.1l-8.5 8.5c-4.7 4.7-4.7 12.3-.1 17l85.9 86.6c4.7 4.7 12.3 4.7 17 .1l180.5-179c4.7-4.7 4.7-12.3.1-17z"></path></svg>
+</div>
+<div class="text">
+Você na faculdade ou seu <br>
+dinheiro de volta
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row row-limiter visible-xs">
+<ul class="footer-submenu__content-list">
+<li><a rel="nofollow" href="/busca-cursos/resultados">Busque por Curso</a></li>
+<li><a href="/faculdades-e-universidades">Lista de Faculdades</a></li>
+<li><a href="/cursos-e-faculdades">Lista de Cursos</a></li>
+<li><a href="/carreiras-e-profissoes/todas">Lista de Profissões</a></li>
+<li><a href="/programas-do-governo">Notas de corte</a></li>
+<li><a target="_blank" rel="noopener noreferrer" href="/teste-vocacional-gratis">Teste Vocacional</a></li>
+<li><a href="/enem">Enem</a></li>
+<li><a href="/sisu">Sisu</a></li>
+<li><a href="/prouni">Prouni</a></li>
+<li><a href="/fies">Fies</a></li>
+<li><a href="/encceja">Encceja</a></li>
+<li><a rel="noopener noreferrer" href="/perguntas-frequentes">Perguntas Frequentes</a></li>
+<li><a href="/o-que-e-o-quero-bolsa">O que é o Quero Bolsa</a></li>
+</ul>
+</div>
+<div class="visible-xs">
+ <div class="footer-submenu-wrapper js-footer-submenu">
+<div class="footer-submenu">
+<div class="footer-submenu__title">
+Encontre seu curso
+</div>
+<div class="footer-submenu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" class="footer-submenu__icon--color"><title>Ícone de seta</title><path d="M8.228.743l1 1-4.485 4.485L.257 1.743l1-1 3.486 3.485L8.228.743z" fill="#5e686a" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<div class="footer-submenu__content">
+<ul class="footer-submenu__content-list">
+<li><a rel="noopener" target="_blank" href="/idiomas?utm_source=querobolsa&amp;utm_medium=referral&amp;utm_campaign=link-footer">Cursos de Idiomas</a></li>
+<li><a href="/cursos-livres">Cursos Livres</a></li>
+<li><a href="/ead-a-distancia">Cursos EaD</a></li>
+<li><a href="/cursos-tecnologos">Cursos Tecnólogos</a></li>
+<li><a href="/pos-graduacao">Cursos Pós-Graduação</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-submenu-wrapper js-footer-submenu">
+<div class="footer-submenu">
+<div class="footer-submenu__title">
+Central de Ajuda
+</div>
+<div class="footer-submenu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" class="footer-submenu__icon--color"><title>Ícone de seta</title><path d="M8.228.743l1 1-4.485 4.485L.257 1.743l1-1 3.486 3.485L8.228.743z" fill="#5e686a" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<div class="footer-submenu__content">
+<ul class="footer-submenu__content-list">
+<li><a href="/como-funciona">Passo a Passo</a></li>
+<li><a href="/termos_e_condicoes">Termos e Condições</a></li>
+<li><a href="/politica_de_privacidade">Política de Privacidade</a></li>
+<li><a href="/educamaisbrasil">Vs Educa Mais Brasil</a></li>
+<li><a href="/maisestudo-neora">Vs Mais Estudo/Neora</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-submenu-wrapper js-footer-submenu">
+<div class="footer-submenu">
+<div class="footer-submenu__title">
+Revista Quero
+</div>
+<div class="footer-submenu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" class="footer-submenu__icon--color"><title>Ícone de seta</title><path d="M8.228.743l1 1-4.485 4.485L.257 1.743l1-1 3.486 3.485L8.228.743z" fill="#5e686a" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<div class="footer-submenu__content">
+<ul class="footer-submenu__content-list">
+<li><a rel="noopener" href="/revista/assunto/vestibular-e-enem">Vestibular e Enem</a></li>
+<li><a rel="noopener" href="/revista/assunto/dicas-e-curiosidades">Dicas e Curiosidades</a></li>
+<li><a rel="noopener" href="/revista/assunto/especiais">Especiais</a></li>
+<li><a rel="noopener" href="/revista/assunto/profissoes">Profissões</a></li>
+<li><a rel="noopener" href="/revista/assunto/pos-graduacao">Pós-Graduação</a></li>
+<li><a rel="noopener" href="/revista/assunto/idiomas">Idiomas</a></li>
+<li><a rel="noopener" href="/enem/manual-do-enem">Manual do Enem</a></li>
+<li><a rel="noopener" href="/enem/gabarito">Gabarito do Enem</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-submenu-wrapper js-footer-submenu">
+<div class="footer-submenu">
+<div class="footer-submenu__title">
+Institucional
+</div>
+<div class="footer-submenu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" class="footer-submenu__icon--color"><title>Ícone de seta</title><path d="M8.228.743l1 1-4.485 4.485L.257 1.743l1-1 3.486 3.485L8.228.743z" fill="#5e686a" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<div class="footer-submenu__content">
+<ul class="footer-submenu__content-list">
+<li><a target="_blank" rel="noopener noreferrer" href="https://jobs.lever.co/quero.education">Trabalhe conosco</a></li>
+<li><a target="_blank" rel="noopener" href="https://queroalunos.com">Portal do Parceiro</a></li>
+<li><a target="_blank" rel="noopener" href="https://gestores.queroeducacao.com.br">Quero ser Parceiro</a></li>
+<li><a class="mailto" href="mailto:imprensa@querobolsa.com.br">Imprensa</a></li>
+<li><a target="_blank" rel="noopener" href="https://gestores.queroeducacao.com.br">Captação de Alunos</a></li>
+<li>App <a href="https://play.google.com/store/apps/details?id=com.redealumni.appquerobolsa&hl=pt_BR" target="_blank" rel="noopener noreferrer">Quero Bolsa</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-submenu-wrapper js-footer-submenu">
+<div class="footer-submenu">
+<div class="footer-submenu__title">
+Dicas Quero Bolsa
+</div>
+<div class="footer-submenu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" class="footer-submenu__icon--color"><title>Ícone de seta</title><path d="M8.228.743l1 1-4.485 4.485L.257 1.743l1-1 3.486 3.485L8.228.743z" fill="#5e686a" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<div class="footer-submenu__content">
+<ul class="footer-submenu__content-list">
+<li><a target="_blank" rel="noopener" href="/intercambio?utm_source=querobolsa&amp;utm_medium=referral&amp;utm_campaign=link-footer">Intercâmbio</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.melhorescola.com.br">Melhor Escola</a></li>
+<li><a target="_blank" rel="noopener" href="/escolas">Vagas em escolas</a></li>
+<li><a target="_blank" rel="noopener" href="/servicos-recomendados">Serviços Parceiros</a></li>
+<li><a target="_blank" rel="noopener" href="/indicacoes/registrar-se">Quero Pontos</a></li>
+<li><a target="_blank" rel="noopener" href="/carreiras/cursos-gratuitos">Cursos Gratuitos</a></li>
+<li><a target="_blank" rel="noopener" href="https://pt-br.classpert.com">Cursos Online</a></li>
+<li><a target="_blank" rel="noopener" href="/portal-do-aluno">Portal do Aluno</a></li>
+<li><a target="_blank" rel="noopener" href="https://quero.com">quero.com</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="bolsa-garantida-popover" class="hide">
+<p>Se por algum motivo você não utilizar a nossa bolsa de estudos, devolveremos o valor pago ao Quero Bolsa.</p>
+<p>Você pode trocar por outro curso ou pedir reembolso em até 30 dias após pagar a pré-matrícula. Se você garantiu sua bolsa antes das matrículas começarem, o prazo é de 30 dias após o início das matrículas na faculdade.</p>
+<p class="bold">Fique tranquilo: no Quero Bolsa, nós colocamos sua satisfação em primeiro lugar e vamos honrar nosso compromisso.</p>
+</div>
+<div id="selo-epoca-popover" class="hide">
+<p>O Quero Bolsa foi eleito pela Revista Época como <b>a melhor empresa brasileira para o consumidor</b> na categoria Educação - Escolas e Cursos.</p>
+<p>O reconhecimento do nosso trabalho através do prêmio Época ReclameAQUI é um reflexo do compromisso que temos em ajudar cada vez mais alunos a ingressar na faculdade.</p>
+</div>
+<div id="bottom-bar" class="bottom-bar">
+<div class="container">
+<div class="row visible-sm visible-xs-inline-block over-bottom">
+<div class="col-sm-7 col-xs-12 cards">
+<div class="cards-holder clearfix">
+<div class="site-seguro">
+<img alt="Site Seguro" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/trusted-label-4c57ebfe310e99f5a4d17036555fcd47c205515c39ec07e520476515fe1b4611.png">
+</div>
+<div class="bandeiras">
+<img alt="Pague com Visa" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/visa-label-174368a689e0a19871281c2863491e68b2fd3e1a8458848460328093ff45afa2.png">
+<img alt="Pague com Master Card" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/master-label-24ae66ed71e5ab201e8fc30649cd8277a83a0f237a773fb6f5871952b3e84d0c.png">
+<img alt="Pague com American Express" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/amex-label-384b20e1c8b37f284d8321056f4f6d28776e710f6ebcf59a12df4e50ecfe28ab.png">
+<img alt="Pague com Elo" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/elo-label-60cdc6eb31980a61277ad4fe4f86912a25c8f9eee911411e49a79ef7135b03f3.png">
+<img alt="Pague com Boleto" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/boleto-label-097937cfbbeb98763bf1c4634717cae4bb29a6ccb3a1913bbcc1807ac90e349d.png">
+</div>
+</div>
+</div>
+<div class="col-sm-5 col-xs-12">
+<p class="social">
+<a class="youtube" aria-label="youtube" target="_blank" rel="nofollow noopener noreferrer" href="https://www.youtube.com/querobolsa"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="32px" height="32px"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+</a>
+<a class="instagram" aria-label="instagram" target="_blank" rel="nofollow noopener noreferrer" href="https://www.instagram.com/querobolsa/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="32px" height="32px"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+</a>
+<a class="facebook" aria-label="facebook" target="_blank" rel="nofollow noopener noreferrer" href="https://www.facebook.com/QueroBolsa/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32px" height="32px"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+</a>
+</p>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row bottom">
+<div class="col-md-3 col-xs-12 col-sm-4 col-sm-push-8 col-md-push-9">
+<p class="quero">
+Feito com <span class="heart"> &#x2765; </span> pela
+<a href="https://quero.education" target="_blank" rel="noopener noreferrer">Quero Educação </a>
+</p>
+</div>
+<div class="col-md-5 col-md-push-1 hidden-sm hidden-xs no-padding">
+<div class="site-seguro">
+<img alt="Site Seguro" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/trusted-label-4c57ebfe310e99f5a4d17036555fcd47c205515c39ec07e520476515fe1b4611.png">
+</div>
+<div class="bandeiras">
+<img alt="Pague com Visa" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/visa-label-174368a689e0a19871281c2863491e68b2fd3e1a8458848460328093ff45afa2.png">
+<img alt="Pague com Master Card" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/master-label-24ae66ed71e5ab201e8fc30649cd8277a83a0f237a773fb6f5871952b3e84d0c.png">
+<img alt="Pague com American Express" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/amex-label-384b20e1c8b37f284d8321056f4f6d28776e710f6ebcf59a12df4e50ecfe28ab.png">
+<img alt="Pague com Elo" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/elo-label-60cdc6eb31980a61277ad4fe4f86912a25c8f9eee911411e49a79ef7135b03f3.png">
+<img alt="Pague com Boleto" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-original="//d13e6x2832emvc.cloudfront.net/revista_assets/icons/boleto-label-097937cfbbeb98763bf1c4634717cae4bb29a6ccb3a1913bbcc1807ac90e349d.png">
+</div>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-pull-4 col-sm-8 col-md-pull-8">
+<p>
+Quero Educação © 2011 - 2020 <br class="hidden-sm">
+CNPJ: 10.542.212/0001-54
+</p>
+</div>
+</div>
+</div>
+</div>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/application-c8f84485b39d76dff6e02af0f383d132f9eef3c41907408d38e9ba045bf16096.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $.ajaxSetup({ cache: true });
+    $.getScript('//connect.facebook.net/pt_BR/sdk.js', function(){
+      FB.init({
+        appId: '179466578778411',
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                oauth      : true, // enable OAuth 2.0
+                xfbml      : true,  // parse XFBML,
+                version    : 'v2.4'
+              });
+
+      FB.Event.subscribe('xfbml.render', function(){
+        $(document).trigger('facebook.rendered');
+      });
+    });
+  });
+</script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/facebook_comment_observer-323a1bf3b32707f5af96b832a288663343b4d3ee4393e09cc4e024164a7579fd.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/post-17b37e71e941dd7acf15d261f8c70a71e45b96b6c50ab54bf07ff6d44df36b21.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/select2.min-bc951d35d3fd9c9a9b6e557b341759953141ef520e937d8205561e0a6fb3ec15.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/swiper.min-9a42915196ea25d389156ea821d74d2d27b8a880e055318b0902debdde091cc8.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/extensions/select2_custom_dropdown-04ec25333220c29536abb5eccfd44f2ffd13984a2a827fa6306179d7dee00c61.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/revista_assets/widgets/courses-b9547522e2840bf410f9e88507e3bbb4066af3f846fb62687eba94341be025e5.js"></script>
+<script src="//d13e6x2832emvc.cloudfront.net/packs/post-4f87b4182dc50acc73c2.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: white;
+    height: 185px;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+footer
+{
+    clear: both;
+    height: 40px;
+    font-size: 12px; 
+    text-align: end
+}
+
+body
+{
+    background-color: antiquewhite;
+    color: darkgray;
+    font-family: helvetica, Arial;
+    font-size: 15px;
+}
+
+
+
+/*ID*/
+#div1
+{
+    background-color: aliceblue;
+    min-height: 400px;
+    width: 60%;
+    float: left;
+}
+
+#div2
+{
+    background-color: darkgrey;
+    min-height: 400px; 
+    color: aliceblue;
+    width: 40%;
+    float: right;
+}
+
+#divcentral
+{
+    background-color: white;
+    min-height: 400px; 
+    color: burlywood;
+    float: none;
+}
+
+#img1
+{
+    position: absolute;
+    left: 50px;
+    top: 195px;
+}
+#img2
+{
+    position: absolute;
+    left: 1450px;
+    top: 195px;
+}
+
+#img3
+{
+    position: absolute;
+    left: 1050px;
+    top: 195px;
+}
+
+
+/*Class container PAGINA COMPLETA*/
+.container
+{
+    width: auto;
+    margin: auto;
+}
+
+
