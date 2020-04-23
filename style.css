@@ -33,7 +33,7 @@ body
 #div1
 {
     background-color: aliceblue;
-    min-height: 400px;
+    height: 400px;
     width: 60%;
     float: left;
 }
@@ -41,7 +41,7 @@ body
 #div2
 {
     background-color: darkgrey;
-    min-height: 400px; 
+    height: 400px; 
     color: aliceblue;
     width: 40%;
     float: right;
@@ -50,8 +50,7 @@ body
 #divcentral
 {
     background-color: white;
-    min-height: 400px; 
-    color: burlywood;
+    height: 400px; 
     float: none;
 }
 
