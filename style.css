@@ -58,21 +58,21 @@ body
 #img1
 {
     position: absolute;
-    left: 50px;
-    top: 195px;
+    left: 1%;
+    top: 20,5%;
 }
 #img2
 {
     position: absolute;
-    left: 1250px;
-    top: 195px;
+    left: 68%;
+    top: 20,5%;
 }
 
 #img3
 {
     position: absolute;
-    left: 850px;
-    top: 195px;
+    left: 50%;
+    top: 20,5;
 }
 
 
